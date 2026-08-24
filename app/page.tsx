@@ -113,14 +113,14 @@ export default async function Home() {
         </div>
         
         <h1 className="text-2xl font-bold">FerCucci</h1>
-        <p className="text-slate-400 mb-6">Full Stack Developer</p>
+        <p className="text-slate-400 mb-6">Solutions Architect</p>
         
         {/* Action Buttons */}
         <div className="flex flex-col gap-3">
           <a href="https://github.com/fernandocucci" target="_blank" className="w-full py-3 px-4 bg-emerald-600 rounded-lg border border-emerald-500 hover:bg-emerald-500 transition">
             GitHub
           </a>
-          <a href="https://linkedin.com" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
+          <a href="https://www.linkedin.com/in/fernandocucci/" target="_blank" className="w-full py-3 px-4 bg-yellow-400 rounded-lg border border-yellow-300 hover:bg-yellow-300 transition text-gray-900">
             LinkedIn
           </a>
 
